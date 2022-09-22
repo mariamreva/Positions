@@ -1,0 +1,49 @@
+* {margin: none;
+border: none;
+text-decoration: none;}
+
+.header { position: fixed;
+	background-color: blue;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	height: 300px;
+}
+
+.proects {color: white;
+font-family: Helvetica Neue;
+}
+
+.dots {color: white;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+
+.column { position: relative;
+          display: flex;
+	      padding: 5px;
+	      float: left;
+          width: 100%;
+          padding: 20px;
+          margin-top: 80px;
+
+}
+ /* Text over  photo */
+ 
+ { position: absolute;
+  bottom: 20px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #FFFFFF;
+  }
+
+
+.logos { padding: 5px;
+
+	display: flex;
+	padding: 5px;
+	float: left;
+}
+
+h3 {  }
