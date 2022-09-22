@@ -7,7 +7,7 @@ text-decoration: none;}
 	width: 100%;
 	top: 0px;
 	left: 0px;
-	height: 300px;
+	height: 250px;
 }
 
 .proects {color: white;
@@ -15,7 +15,7 @@ font-family: Helvetica Neue;
 }
 
 .dots {color: white; 
-	margin-top: auto;
+	margin-right: -50%;
 
 }
 
@@ -30,22 +30,22 @@ font-family: Helvetica Neue;
           margin-top: 80px;
 
 }
- /* Text over  the Photo */
 
- { position: absolute;
-  bottom: 20px;
-  color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-  background-color: #FFFFFF;
+
+/* something about the text over the photo */ 
+  { position: absolute;
+  	          top: 285px;
+              bottom: 0px;
+              color: white;
+              background-color: #FFFFFF;
   }
 
 
 .logos { padding: 5px;
-	display: flex;
 	padding: 5px;
-	float: left;
 	margin-right :40%;
+	width: 50px;
+	height: 50px;
 	
 }
 
